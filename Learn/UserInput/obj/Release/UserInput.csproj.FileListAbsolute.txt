@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\bin\Release\UserInput.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\bin\Release\UserInput.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\bin\Release\UserInput.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\obj\Release\UserInput.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\obj\Release\UserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\obj\Release\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\obj\Release\UserInput.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\UserInput\obj\Release\UserInput.pdb

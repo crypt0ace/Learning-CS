@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\obj\Release\FieldsandMethods.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\obj\Release\FieldsandMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\obj\Release\FieldsandMethods.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\bin\Release\FieldsandMethods.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\bin\Release\FieldsandMethods.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\bin\Release\FieldsandMethods.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\obj\Release\FieldsandMethods.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\FieldsandMethods\obj\Release\FieldsandMethods.pdb

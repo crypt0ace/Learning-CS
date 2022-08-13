@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\bin\Release\Interfaces.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\bin\Release\Interfaces.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\obj\Release\Interfaces.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\obj\Release\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\obj\Release\Interfaces.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Interfaces\obj\Release\Interfaces.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\bin\Release\Enum.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\bin\Release\Enum.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\bin\Release\Enum.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\obj\Release\Enum.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\obj\Release\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\obj\Release\Enum.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\obj\Release\Enum.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Enum\obj\Release\Enum.pdb

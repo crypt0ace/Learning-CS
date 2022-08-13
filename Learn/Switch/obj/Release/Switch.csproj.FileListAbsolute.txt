@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\bin\Release\Switch.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\bin\Release\Switch.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\bin\Release\Switch.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\obj\Release\Switch.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\obj\Release\Switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\obj\Release\Switch.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\obj\Release\Switch.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Switch\obj\Release\Switch.pdb

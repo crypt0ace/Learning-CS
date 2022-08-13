@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\bin\Release\AdvMaths.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\bin\Release\AdvMaths.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\bin\Release\AdvMaths.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\obj\Release\AdvMaths.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\obj\Release\AdvMaths.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\obj\Release\AdvMaths.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\obj\Release\AdvMaths.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\AdvMaths\obj\Release\AdvMaths.pdb

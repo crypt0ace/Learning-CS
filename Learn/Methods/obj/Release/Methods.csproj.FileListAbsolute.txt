@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\bin\Release\Methods.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\bin\Release\Methods.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\bin\Release\Methods.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\obj\Release\Methods.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\obj\Release\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\obj\Release\Methods.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\obj\Release\Methods.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Methods\obj\Release\Methods.pdb

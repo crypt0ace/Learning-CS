@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\bin\Release\TypeCasting.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\bin\Release\TypeCasting.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\bin\Release\TypeCasting.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\obj\Release\TypeCasting.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\obj\Release\TypeCasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\obj\Release\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\obj\Release\TypeCasting.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\TypeCasting\obj\Release\TypeCasting.pdb

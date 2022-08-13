@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\bin\Release\variables.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\bin\Release\variables.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\bin\Release\variables.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\obj\Release\variables.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\obj\Release\variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\obj\Release\variables.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\obj\Release\variables.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\variables\obj\Release\variables.pdb

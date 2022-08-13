@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\bin\Release\Strings.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\bin\Release\Strings.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\bin\Release\Strings.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\obj\Release\Strings.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\obj\Release\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\obj\Release\Strings.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\obj\Release\Strings.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Strings\obj\Release\Strings.pdb

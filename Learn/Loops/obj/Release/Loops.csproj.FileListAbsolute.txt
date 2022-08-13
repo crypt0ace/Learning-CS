@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\bin\Release\Loops.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\bin\Release\Loops.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\bin\Release\Loops.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\obj\Release\Loops.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\obj\Release\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\obj\Release\Loops.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\obj\Release\Loops.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Loops\obj\Release\Loops.pdb

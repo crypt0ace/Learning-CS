@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\bin\Release\Comments.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\bin\Release\Comments.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\bin\Release\Comments.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\obj\Release\Comments.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\obj\Release\Comments.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\obj\Release\Comments.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\obj\Release\Comments.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Comments\obj\Release\Comments.pdb

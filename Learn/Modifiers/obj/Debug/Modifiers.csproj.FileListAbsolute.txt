@@ -1,0 +1,3 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Modifiers\obj\Debug\Modifiers.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Modifiers\obj\Debug\Modifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Modifiers\obj\Debug\Modifiers.csproj.CoreCompileInputs.cache

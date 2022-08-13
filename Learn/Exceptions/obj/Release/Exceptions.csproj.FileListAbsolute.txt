@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\bin\Release\Exceptions.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\bin\Release\Exceptions.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\bin\Release\Exceptions.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\obj\Release\Exceptions.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\obj\Release\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\obj\Release\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\obj\Release\Exceptions.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Exceptions\obj\Release\Exceptions.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\bin\Release\Boolean.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\bin\Release\Boolean.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\bin\Release\Boolean.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\obj\Release\Boolean.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\obj\Release\Boolean.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\obj\Release\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\obj\Release\Boolean.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Boolean\obj\Release\Boolean.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\obj\Release\ClassConstructors2.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\obj\Release\ClassConstructors2.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\obj\Release\ClassConstructors2.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\bin\Release\ClassConstructors2.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\bin\Release\ClassConstructors2.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\bin\Release\ClassConstructors2.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\obj\Release\ClassConstructors2.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\ClassConstructors2\obj\Release\ClassConstructors2.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\bin\Release\operators.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\bin\Release\operators.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\bin\Release\operators.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\obj\Release\operators.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\obj\Release\operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\obj\Release\operators.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\obj\Release\operators.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\operators\obj\Release\operators.pdb

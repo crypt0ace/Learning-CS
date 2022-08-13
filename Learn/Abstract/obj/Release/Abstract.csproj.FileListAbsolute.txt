@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\bin\Release\Abstract.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\bin\Release\Abstract.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\bin\Release\Abstract.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\obj\Release\Abstract.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\obj\Release\Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\obj\Release\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\obj\Release\Abstract.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Abstract\obj\Release\Abstract.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\bin\Release\Inheritance.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\bin\Release\Inheritance.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\bin\Release\Inheritance.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\obj\Release\Inheritance.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\obj\Release\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\obj\Release\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\obj\Release\Inheritance.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Inheritance\obj\Release\Inheritance.pdb

@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\bin\Release\WriteMethod.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\bin\Release\WriteMethod.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\bin\Release\WriteMethod.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\obj\Release\WriteMethod.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\obj\Release\WriteMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\obj\Release\WriteMethod.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\obj\Release\WriteMethod.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\WriteMethod\obj\Release\WriteMethod.pdb

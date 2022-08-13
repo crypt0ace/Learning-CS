@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\bin\Release\MultipleWriteLine.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\bin\Release\MultipleWriteLine.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\bin\Release\MultipleWriteLine.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\obj\Release\MultipleWriteLine.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\obj\Release\MultipleWriteLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\obj\Release\MultipleWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\obj\Release\MultipleWriteLine.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\MultipleWriteLine\obj\Release\MultipleWriteLine.pdb

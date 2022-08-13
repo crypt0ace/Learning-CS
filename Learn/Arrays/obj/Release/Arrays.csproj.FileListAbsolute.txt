@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\bin\Release\Arrays.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\bin\Release\Arrays.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\bin\Release\Arrays.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\obj\Release\Arrays.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\obj\Release\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\obj\Release\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\obj\Release\Arrays.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Arrays\obj\Release\Arrays.pdb

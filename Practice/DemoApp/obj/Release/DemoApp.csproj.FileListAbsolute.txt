@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\bin\Release\LearningCS.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\bin\Release\LearningCS.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\bin\Release\LearningCS.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\obj\Release\DemoApp.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\obj\Release\DemoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\obj\Release\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\obj\Release\LearningCS.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\LearningCS\obj\Release\LearningCS.pdb

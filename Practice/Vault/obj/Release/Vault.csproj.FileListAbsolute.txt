@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\bin\Release\Vault.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\bin\Release\Vault.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\bin\Release\Vault.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\obj\Release\Vault.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\obj\Release\Vault.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\obj\Release\Vault.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\obj\Release\Vault.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\Vault\obj\Release\Vault.pdb

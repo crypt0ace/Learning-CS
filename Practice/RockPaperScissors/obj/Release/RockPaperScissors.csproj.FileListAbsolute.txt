@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\bin\Release\RockPaperScissors.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\obj\Release\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\obj\Release\RockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\obj\Release\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\obj\Release\RockPaperScissors.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\RockPaperScissors\obj\Release\RockPaperScissors.pdb

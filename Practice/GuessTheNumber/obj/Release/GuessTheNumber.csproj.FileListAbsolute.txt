@@ -1,0 +1,8 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\bin\Release\GuessTheNumber.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\bin\Release\GuessTheNumber.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\bin\Release\GuessTheNumber.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\obj\Release\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\obj\Release\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\obj\Release\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\obj\Release\GuessTheNumber.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Learning-CS\GuessTheNumber\obj\Release\GuessTheNumber.pdb

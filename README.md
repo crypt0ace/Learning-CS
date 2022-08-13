@@ -10,4 +10,4 @@ The practice folder contains some binaries I made to practice C# coding. Some ma
 - [DemoApp](https://github.com/crypt0ace/Learning-CS/tree/main/Practice/DemoApp)
 <br>
 ## TODO:
-- Make a list of tutorials in `Learn` in order.
+- Make a list of tutorials in `Learn` in order. 
